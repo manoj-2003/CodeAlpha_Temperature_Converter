@@ -1,0 +1,16 @@
+.card.resultSection.col-12.col-md-6
+{
+    background-color: teal;
+}
+.convertBtn {
+    background-color:cadetblue; /* Replace #007bff with your desired background color */
+}
+.container {
+    box-shadow: 10px 10px 5px 12px rgb(192, 210, 216);
+  }
+  h4
+  {
+    text-align: center;
+    color: cadetblue;
+    stroke: black;
+  }
